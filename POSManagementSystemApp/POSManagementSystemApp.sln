@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystemApp", "POSManagementSystemApp\POSManagementSystemApp.csproj", "{B782C05C-37E9-4B01-ACB0-CF05B1590FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Bll", "POSManagementSystem.Bll\POSManagementSystem.Bll.csproj", "{DCDDC3CC-11DE-4280-9DF6-1F5FF3DD5CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Repository", "POSManagementSystem.Repository\POSManagementSystem.Repository.csproj", "{79EB46C9-B782-424F-AE4C-AA2CF9F5498C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Models", "POSManagementSystem.Models\POSManagementSystem.Models.csproj", "{01C03284-DAB1-46BF-97D6-BD4B9475DC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.DatabaseContext", "POSManagementSystem.DatabaseContext\POSManagementSystem.DatabaseContext.csproj", "{DC941377-408A-43E4-B34E-807ADDB33BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B782C05C-37E9-4B01-ACB0-CF05B1590FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B782C05C-37E9-4B01-ACB0-CF05B1590FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B782C05C-37E9-4B01-ACB0-CF05B1590FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B782C05C-37E9-4B01-ACB0-CF05B1590FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDDC3CC-11DE-4280-9DF6-1F5FF3DD5CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDDC3CC-11DE-4280-9DF6-1F5FF3DD5CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDDC3CC-11DE-4280-9DF6-1F5FF3DD5CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDDC3CC-11DE-4280-9DF6-1F5FF3DD5CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EB46C9-B782-424F-AE4C-AA2CF9F5498C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB46C9-B782-424F-AE4C-AA2CF9F5498C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB46C9-B782-424F-AE4C-AA2CF9F5498C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB46C9-B782-424F-AE4C-AA2CF9F5498C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C03284-DAB1-46BF-97D6-BD4B9475DC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C03284-DAB1-46BF-97D6-BD4B9475DC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C03284-DAB1-46BF-97D6-BD4B9475DC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C03284-DAB1-46BF-97D6-BD4B9475DC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC941377-408A-43E4-B34E-807ADDB33BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC941377-408A-43E4-B34E-807ADDB33BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC941377-408A-43E4-B34E-807ADDB33BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC941377-408A-43E4-B34E-807ADDB33BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

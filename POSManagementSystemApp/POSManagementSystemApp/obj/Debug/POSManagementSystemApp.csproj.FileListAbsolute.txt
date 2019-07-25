@@ -1,0 +1,217 @@
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\ApplicationInsights.config
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\csc.exe
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\vbc.exe
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll.config
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.pdb
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.pdb
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.pdb
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.xml
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\ApplicationInsights.config
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\csc.exe
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\vbc.exe
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll.config
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll.config
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.xml
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csprojAssemblyReference.cache
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csproj.CopyComplete
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.pdb
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\ApplicationInsights.config
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\csc.exe
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\vbc.exe
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll.config
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.pdb
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.pdb
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.pdb
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.pdb
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.xml
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csprojResolveAssemblyReference.cache
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.dll
+D:\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\ApplicationInsights.config
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\csc.exe
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\vbc.exe
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll.config
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystemApp.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.Web.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Razor.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Deployment.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.xml
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.pdb

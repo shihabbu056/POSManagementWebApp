@@ -1,0 +1,16 @@
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojResolveAssemblyReference.cache
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojAssemblyReference.cache
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementSystemApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojResolveAssemblyReference.cache
+G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb
