@@ -8,7 +8,7 @@ namespace POSManagementSystem.Models.Models
 {
     public class Category
     {
-        public int CategoryId { get; set; }
+        public long Id { get; set; }
         public string Code { get; set; }
         public string Name { get; set; }
     }
