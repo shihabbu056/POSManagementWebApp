@@ -6,13 +6,21 @@ using System.Web;
 using System.Web.Mvc;
 using POSManagementSystem.Bll.Bll;
 using POSManagementSystem.Models.Models;
+using POSManagementSystem.Bll.Contracts;
 
 namespace POSManagementSystemApp.Controllers
 {
     public class CategoryController : Controller
     {
-        CategoryManager _categoryManager = new CategoryManager();
+        private CategoryManager _categoryManager;
+        private ICategoryManager _categoryManagerInterface;
         Category _category = new Category();
+
+        public CategoryController(ICategoryManager categoryInterface, CategoryManager categoryManager)
+        {
+            this._categoryManagerInterface = categoryInterface;
+            this._categoryManager = categoryManager;
+        }
         // GET: Category
         public ActionResult Index()
         {
@@ -99,6 +107,11 @@ namespace POSManagementSystemApp.Controllers
             _categoryManager.Delete(_category);
             return RedirectToAction("Index");
         }
+        public JsonResult IsCategoryNameExist(string Name)
+        {
+            var name = _categoryManagerInterface.IsCategoryAlreadyExits(Name);
+            return Json(name, JsonRequestBehavior.AllowGet);
+        }
 
         //public ActionResult Delete(int id, FormCollection formCollection)
         //{
@@ -111,6 +124,6 @@ namespace POSManagementSystemApp.Controllers
         //        return View();
         //    }
         //}
-        
+
     }
 }

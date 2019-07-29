@@ -1026,6 +1026,7 @@
     <Content Include="Views\Product\Add.cshtml" />
     <Content Include="Views\Product\Edit.cshtml" />
     <Content Include="Views\Category\Delete.cshtml" />
+    <Content Include="Views\Product\Delete.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -1039,6 +1040,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\POSManagementSystem.Bll.Contracts\POSManagementSystem.Bll.Contracts.csproj">
+      <Project>{94982F4F-0D42-445E-907A-A2CF79B45896}</Project>
+      <Name>POSManagementSystem.Bll.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POSManagementSystem.Bll\POSManagementSystem.Bll.csproj">
       <Project>{dcddc3cc-11de-4280-9df6-1f5ff3dd5cd1}</Project>
       <Name>POSManagementSystem.Bll</Name>

@@ -60,6 +60,10 @@
     <Compile Include="Migrations\201907291458067_ImagePath_DisplayName_Added.Designer.cs">
       <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.cs" />
+    <Compile Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.Designer.cs">
+      <DependentUpon>201907292313164_Category_DataAnnotation_Addedd.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -82,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201907291458067_ImagePath_DisplayName_Added.resx">
       <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.resx">
+      <DependentUpon>201907292313164_Category_DataAnnotation_Addedd.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

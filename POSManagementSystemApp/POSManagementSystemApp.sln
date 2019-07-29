@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Databas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Models.Contracts", "POSManagementSystem.Models.Contracts\POSManagementSystem.Models.Contracts.csproj", "{E26F78F8-8419-4526-B23D-78AE0D8BA924}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Bll.Contracts", "POSManagementSystem.Bll.Contracts\POSManagementSystem.Bll.Contracts.csproj", "{94982F4F-0D42-445E-907A-A2CF79B45896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSManagementSystem.Repositor.Contracts", "POSManagementSystem.Repositor.Contracts\POSManagementSystem.Repositor.Contracts.csproj", "{17A8F323-D5D4-4FC2-93FC-62E9ED634364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{E26F78F8-8419-4526-B23D-78AE0D8BA924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E26F78F8-8419-4526-B23D-78AE0D8BA924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E26F78F8-8419-4526-B23D-78AE0D8BA924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94982F4F-0D42-445E-907A-A2CF79B45896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94982F4F-0D42-445E-907A-A2CF79B45896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94982F4F-0D42-445E-907A-A2CF79B45896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94982F4F-0D42-445E-907A-A2CF79B45896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A8F323-D5D4-4FC2-93FC-62E9ED634364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A8F323-D5D4-4FC2-93FC-62E9ED634364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A8F323-D5D4-4FC2-93FC-62E9ED634364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A8F323-D5D4-4FC2-93FC-62E9ED634364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using POSManagementSystem.Bll.Bll;
@@ -122,6 +123,30 @@ namespace POSManagementSystemApp.Controllers
             }
 
             return View(product);
+        }
+        public ActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            _product.Id = (int)id;
+            Product product = _productManager.GetByID(_product);
+            //Student student = db.Students.Find(id);
+            if (product == null)
+            {
+                return HttpNotFound();
+            }
+            return View(product);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            _product.Id = id;
+            _productManager.Delete(_product);
+            return RedirectToAction("Index");
         }
     }
 }

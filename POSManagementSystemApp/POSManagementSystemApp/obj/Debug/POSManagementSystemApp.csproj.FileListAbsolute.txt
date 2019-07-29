@@ -296,6 +296,7 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Microsoft.Web.Infrastructure.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\Newtonsoft.Json.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.Contracts.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.Contracts.dll
@@ -309,7 +310,9 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Webpages.Razor.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\WebGrease.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Repository.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Repositor.Contracts.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.Contracts.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Bll.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.DatabaseContext.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Models.Contracts.pdb
@@ -330,6 +333,7 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Helpers.xml
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\System.Web.Mvc.xml
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Repository.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\POSManagementSystem.Repositor.Contracts.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\bin\EntityFramework.xml
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.csprojResolveAssemblyReference.cache
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystemApp\obj\Debug\POSManagementSystemApp.dll

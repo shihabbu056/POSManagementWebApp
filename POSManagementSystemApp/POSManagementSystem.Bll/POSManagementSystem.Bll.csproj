@@ -40,13 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\Manager.cs" />
     <Compile Include="Bll\CategoryManager.cs" />
+    <Compile Include="Bll\CategoryManagerInterface.cs" />
     <Compile Include="Bll\CustomerManager.cs" />
     <Compile Include="Bll\ProductManager.cs" />
     <Compile Include="Bll\SupplierManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\POSManagementSystem.Bll.Contracts\POSManagementSystem.Bll.Contracts.csproj">
+      <Project>{94982F4F-0D42-445E-907A-A2CF79B45896}</Project>
+      <Name>POSManagementSystem.Bll.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POSManagementSystem.Models.Contracts\POSManagementSystem.Models.Contracts.csproj">
       <Project>{e26f78f8-8419-4526-b23d-78ae0d8ba924}</Project>
       <Name>POSManagementSystem.Models.Contracts</Name>
@@ -54,6 +60,10 @@
     <ProjectReference Include="..\POSManagementSystem.Models\POSManagementSystem.Models.csproj">
       <Project>{01c03284-dab1-46bf-97d6-bd4b9475dc19}</Project>
       <Name>POSManagementSystem.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\POSManagementSystem.Repositor.Contracts\POSManagementSystem.Repositor.Contracts.csproj">
+      <Project>{17A8F323-D5D4-4FC2-93FC-62E9ED634364}</Project>
+      <Name>POSManagementSystem.Repositor.Contracts</Name>
     </ProjectReference>
     <ProjectReference Include="..\POSManagementSystem.Repository\POSManagementSystem.Repository.csproj">
       <Project>{79eb46c9-b782-424f-ae4c-aa2cf9f5498c}</Project>
