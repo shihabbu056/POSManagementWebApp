@@ -1,0 +1,4 @@
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.pdb

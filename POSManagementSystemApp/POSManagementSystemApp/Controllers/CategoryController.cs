@@ -15,38 +15,91 @@ namespace POSManagementSystemApp.Controllers
         // GET: Category
         public ActionResult Index()
         {
-            return View();
+            return View(_categoryManager.GetAll());
         }
-        public ActionResult Add(Category category)
+        [HttpGet]
+        public ActionResult Add()
         {
-            //_student.ID = 101;
-            _category.Name = category.Name;
-            _category.Code = category.Code;
-            _categoryManager.Add(_category);
             return View();
         }
-        public ActionResult Delete(int id)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Add([Bind(Include = "Id, Name, Code, IsDeleted")]Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                if (_categoryManager.Add(category))
+                {
+                    ViewBag.SuccessMsg = "Category Saved Successfully.";
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    ViewBag.FailMsg = "Vailed!";
+                }
+            }
+            else
+            {
+                ViewBag.FailMsg = "Validation Error!";
+            }
+
+            return View();
+        }
+        public ActionResult Edit(int id)
         {
             _category.Id = id;
-            _categoryManager.Delete(_category);
-            return View();
+            var category = _categoryManager.GetByID(_category);
+            return View(category);
         }
-        public ActionResult Update(Category category)
+        [HttpPost]
+        public ActionResult Edit(Category category)
         {
-            _category.Id = category.Id;
-            //Method 1
-
-            //_student.Name = "Kamal";
-            //_studentManager.Update(_student);
-
-            Category aCategory = _categoryManager.GetByID(_category);
-            if (aCategory != null)
+            if (ModelState.IsValid)
             {
-                aCategory.Name = category.Name;
-                _categoryManager.Update(aCategory);
-
+                if (_categoryManager.Update(category))
+                {
+                    ViewBag.SuccessMsg = "Update Successfully.";
+                    return RedirectToAction("Index","Category");
+                }
+                else
+                {
+                    ViewBag.FailMsg = "Update Vailed!";
+                }
             }
-            return View();
+            else
+            {
+                ViewBag.FailMsg = "Validation Error!";
+            }
+
+            return View(category);
         }
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            
+            _category.Id = id;
+            Category category = _categoryManager.GetByID(_category);
+            Category categoryVM = new Category()
+            {
+                Id = category.Id,
+                Name = category.Name,
+                Code = category.Code
+            };
+            _categoryManager.Delete(_category);
+            return View(categoryVM);
+        }
+
+        public ActionResult Delete(int id, FormCollection formCollection)
+        {
+            try
+            {
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View();
+            }
+        }
+        
     }
 }

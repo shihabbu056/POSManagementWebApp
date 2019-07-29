@@ -69,8 +69,8 @@ namespace POSManagementSystem.Repository.Repository
         }
         public Category GetByID(Category category)
         {
-            Category aCategory = db.Categories.FirstOrDefault(c => c.Id == category.Id);
-            return aCategory;
+            Category aStudent = db.Categories.FirstOrDefault(c => c.Id == category.Id);
+            return aStudent;
         }
     }
 }

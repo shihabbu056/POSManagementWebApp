@@ -48,6 +48,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseContext\POSManagementSystemBdContext.cs" />
+    <Compile Include="Migrations\201907290906175_Initial_Model.cs" />
+    <Compile Include="Migrations\201907290906175_Initial_Model.Designer.cs">
+      <DependentUpon>201907290906175_Initial_Model.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201907291055060_Category_Display_Anotation_Added.cs" />
+    <Compile Include="Migrations\201907291055060_Category_Display_Anotation_Added.Designer.cs">
+      <DependentUpon>201907291055060_Category_Display_Anotation_Added.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201907291458067_ImagePath_DisplayName_Added.cs" />
+    <Compile Include="Migrations\201907291458067_ImagePath_DisplayName_Added.Designer.cs">
+      <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -59,6 +72,17 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907290906175_Initial_Model.resx">
+      <DependentUpon>201907290906175_Initial_Model.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907291055060_Category_Display_Anotation_Added.resx">
+      <DependentUpon>201907291055060_Category_Display_Anotation_Added.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907291458067_ImagePath_DisplayName_Added.resx">
+      <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

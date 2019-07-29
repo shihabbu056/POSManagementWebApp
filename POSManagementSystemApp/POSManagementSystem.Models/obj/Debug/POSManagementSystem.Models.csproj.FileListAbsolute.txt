@@ -14,3 +14,10 @@ G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSM
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojResolveAssemblyReference.cache
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojResolveAssemblyReference.cache
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb

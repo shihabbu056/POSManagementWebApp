@@ -38,3 +38,19 @@ G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csprojResolveAssemblyReference.cache
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.dll
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.dll.config
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.DatabaseContext.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.DatabaseContext.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csprojResolveAssemblyReference.cache
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.pdb

@@ -25,7 +25,8 @@
     <link href="~/scripts/plugins/slidepushmenus/css/component.css" rel="stylesheet" type="text/css" />
     <link href="~/scripts/plugins/weather-icons-master/css/weather-icons.min.css" rel="stylesheet" type="text/css" />
     <link href="~/scripts/plugins/metrojs/MetroJs.min.css" rel="stylesheet" type="text/css" />
-    <link href="~/scripts/plugins/toastr/toastr.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/scripts/plugins/toastr/toastr.min.css" rel="stylesheet" type="text/css"/>
+    <link href="~/scripts/plugins/datatables/css/jquery.datatables.min.css" rel="stylesheet" />
 
     <!-- Theme Styles -->
     <link href="~/Content/modern.css" rel="stylesheet" type="text/css" />
@@ -993,6 +994,12 @@
     <script src="~/scripts/plugins/metrojs/MetroJs.min.js"></script>
     <script src="~/scripts/modern.js"></script>
     <script src="~/scripts/pages/dashboard.js"></script>
+    <script src="~/scripts/custom.js"></script>
+    <script src="~/scripts/plugins/datatables/js/jquery.datatables.min.js"></script>
 
+    <script>
+        $('myTable').DataTable();
+    </script>
+    @RenderSection("scripts", required: false)
 </body>
 </html>
