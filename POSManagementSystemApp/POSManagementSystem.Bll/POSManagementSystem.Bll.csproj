@@ -47,6 +47,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\POSManagementSystem.Models.Contracts\POSManagementSystem.Models.Contracts.csproj">
+      <Project>{e26f78f8-8419-4526-b23d-78ae0d8ba924}</Project>
+      <Name>POSManagementSystem.Models.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POSManagementSystem.Models\POSManagementSystem.Models.csproj">
       <Project>{01c03284-dab1-46bf-97d6-bd4b9475dc19}</Project>
       <Name>POSManagementSystem.Models</Name>

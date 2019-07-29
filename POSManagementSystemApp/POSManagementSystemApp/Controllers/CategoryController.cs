@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using POSManagementSystem.Bll.Bll;
@@ -73,33 +74,43 @@ namespace POSManagementSystemApp.Controllers
 
             return View(category);
         }
-        [HttpGet]
-        public ActionResult Delete(int id)
+
+        public ActionResult Delete(int? id)
         {
-            
-            _category.Id = id;
-            Category category = _categoryManager.GetByID(_category);
-            Category categoryVM = new Category()
+            if (id == null)
             {
-                Id = category.Id,
-                Name = category.Name,
-                Code = category.Code
-            };
-            _categoryManager.Delete(_category);
-            return View(categoryVM);
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            _category.Id = (int)id;
+            Category category = _categoryManager.GetByID(_category);
+            //Student student = db.Students.Find(id);
+            if (category == null)
+            {
+                return HttpNotFound();
+            }
+            return View(category);
         }
 
-        public ActionResult Delete(int id, FormCollection formCollection)
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
         {
-            try
-            {
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
+            _category.Id = id;
+            _categoryManager.Delete(_category);
+            return RedirectToAction("Index");
         }
+
+        //public ActionResult Delete(int id, FormCollection formCollection)
+        //{
+        //    try
+        //    {
+        //        return RedirectToAction("Index");
+        //    }
+        //    catch
+        //    {
+        //        return View();
+        //    }
+        //}
         
     }
 }
