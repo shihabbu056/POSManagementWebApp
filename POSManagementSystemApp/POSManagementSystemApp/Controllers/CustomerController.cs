@@ -1,37 +1,187 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using POSManagementSystem.Bll.Bll;
 using POSManagementSystem.Models.Models;
 
 namespace POSManagementSystemApp.Controllers
 {
     public class CustomerController : Controller
     {
+        CustomerManager _customerManager = new CustomerManager();
+        Customer _customer = new Customer();
         // GET: Customer
         public ActionResult Index()
         {
-            return View();
+            return View(_customerManager.GetAll());
         }
-        public ActionResult Create()
+        public static string GetFileNameToSave(string s)
         {
-            return View();
+            return s
+                .Replace("\\", "")
+                .Replace("/", "")
+                .Replace("\"", "")
+                .Replace("*", "")
+                .Replace(":", "")
+                .Replace("?", "")
+                .Replace("<", "")
+                .Replace(">", "")
+                .Replace("|", "");
         }
-        [HttpPost]
-        public ActionResult Create(Customer customer)
+        private byte[] GetImageData(string imgName)
         {
-            return View();
+            byte[] imageData = null;
+
+            if (Request.Files.Count > 0)
+            {
+                HttpPostedFileBase imgFile = Request.Files["Image"];
+                if (imgFile != null && imgFile.ContentLength > 0)
+                {
+                    var fileName = GetFileNameToSave(imgName + DateTime.Now);
+                    imgFile.SaveAs(Server.MapPath("~/images/customer/" + fileName));
+                    //imgFile.SaveAs(Server.MapPath(Path.Combine()));
+
+                    using (var binary = new BinaryReader(imgFile.InputStream))
+                    {
+                        imageData = binary.ReadBytes(imgFile.ContentLength);
+                    }
+                }
+            }
+            return imageData;
+        }
+        public bool HasFile(byte[] file)
+        {
+
+            return file != null;
+        }
+
+        private void CreateCustomer(Customer customer, byte[] imageData)
+        {
+            Customer cust = new Customer
+            {
+                Name = customer.Name,
+                Code = customer.Code,
+                Address = customer.Address,
+                Email = customer.Email,
+                Contact = customer.Contact,
+                LoyaltyPoint = customer.LoyaltyPoint,
+                Image = imageData,
+                ImagePath = "~/images/customer/"+customer.ImagePath+DateTime.Now,
+                IsDeleted = false
+            };
+            _customerManager.Add(cust);
         }
         [HttpGet]
-        public ActionResult Edit(int? id)
+        public ActionResult Add()
         {
             return View();
         }
         [HttpPost]
-        public ActionResult Edit(Customer customery)
+        [ValidateAntiForgeryToken]
+        public ActionResult Add([Bind(Include = "Id, Code, Name, Address, Email, Contact, LoyaltyPoint, Image, ImagePath, IsDeleted")] Customer customer)
         {
+            if (ModelState.IsValid)
+            {
+                var imageData = GetImageData(customer.Name);
+                if (HasFile(imageData))
+                {
+                    CreateCustomer(customer, imageData);
+                    ViewBag.SuccessMsg = "Customer Saved Successfully.";
+                }
+                //if (customer.ImageUpload != null)
+                //{
+                //    string fileName = Path.GetFileNameWithoutExtension(customer.ImageUpload.FileName);
+                //    string extension = Path.GetExtension(customer.ImageUpload.FileName);
+                //    fileName = fileName + DateTime.Now.ToString("yymmssfff") + extension;
+                //    customer.ImagePath = "~/images/customer/" + fileName;
+                //    customer.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/images/customer/"), fileName));
+                //}
+
+                //bool isSaved = _customerManager.Add(customer);
+                //if (isSaved)
+                //{
+                //    ViewBag.SuccessMsg = "Customer Saved Successfully.";
+                //}
+                else
+                {
+                    ViewBag.FailMsg = "Vailed!";
+                }
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                ViewBag.FailMsg = "Validation Error!";
+            }
+
             return View();
+        }
+        
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            _customer.Id = id;
+            var customer = _customerManager.GetByID(_customer);
+            return View(customer);
+        }
+        [HttpPost]
+        public ActionResult Edit(Customer customer)
+        {
+            if (ModelState.IsValid)
+            {
+                //if (customer.ImageUpload != null)
+                //{
+                //    string fileName = Path.GetFileNameWithoutExtension(customer.ImageUpload.FileName);
+                //    string extension = Path.GetExtension(customer.ImageUpload.FileName);
+                //    fileName = fileName + DateTime.Now.ToString("yymmssfff") + extension;
+                //    customer.ImagePath = "~/images/customer/" + fileName;
+                //    customer.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/images/customer/"), fileName));
+                //}
+
+                bool isSaved = _customerManager.Add(customer);
+                if (isSaved)
+                {
+                    ViewBag.SuccessMsg = "Customer Update Successfully.";
+                }
+                else
+                {
+                    ViewBag.FailMsg = "Vailed!";
+                }
+                return RedirectToAction("Index", "Customer");
+            }
+            else
+            {
+                ViewBag.FailMsg = "Validation Error!";
+            }
+
+            return View(customer);
+        }
+
+        public ActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            _customer.Id = (int)id;
+            Customer customer = _customerManager.GetByID(_customer);
+            //Student student = db.Students.Find(id);
+            if (customer == null)
+            {
+                return HttpNotFound();
+            }
+            return View(customer);
+        }
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            _customer.Id = id;
+            _customerManager.Delete(_customer);
+            return RedirectToAction("Index");
         }
     }
 }

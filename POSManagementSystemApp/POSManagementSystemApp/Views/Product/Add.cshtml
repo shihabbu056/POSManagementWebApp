@@ -7,10 +7,10 @@
 
 <div id="main-wrapper">
     <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-10" id ="addProductPage">
             <div class="panel panel-white">
                 @*<h2>Add</h2>*@
-                @using (Html.BeginForm())
+                @using (Html.BeginForm("Add", "Product", FormMethod.Post, new { enctype = "multipart/form-data", onSubmit = "return jQueryAjaxPost(this);", data_restUrl = Url.Action("Add", "Product", new { id = 0 }) }))
             {
                     @Html.AntiForgeryToken()
                     @*<form class="form-horizontal">*@
@@ -21,6 +21,8 @@
 
                         <hr />
                         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(model => model.Id)
+                        @Html.HiddenFor(model => model.ImagePath)
                         <div class="row">
                             <div class="col-md-10">
                                 <div class="col-md-6">
@@ -59,18 +61,29 @@
                                             @Html.ValidationMessageFor(model => model.Discription, "", new { @class = "text-danger" })
                                         </div>
                                     </div>
+                                    @*<div class="form-group">
+                                        <div class="col-md-offset-2 col-md-10">
+                                            <input type="submit" value="Create" class="btn btn-success"/>
+                                        </div>
+                                    </div>*@
                                     <div class="form-group">
                                         <div class="col-md-offset-2 col-md-10">
-                                            <input type="submit" value="Create" class="btn btn-success" />
+                                            <input type="submit" value="Submit" class="btn btn-primary" />
+                                            @if (Model.Id != 0)
+                                            {
+                                                <a class="btn btn-success" onclick="refreshAddViewTab('@Url.Action("Add", "Product", new {id = 0})', false)"><i class="fa fa-plus">Add New</i></a>
+                                            }
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
+                                    
                                     <div class="form-group">
-                                        @Html.LabelFor(model => model.ImagePath, htmlAttributes: new { @class = "control-label col-md-2" })
+                                        @*@Html.Label("Product Image")*@
+                                        @Html.LabelFor(model => model.ImagePath, htmlAttributes: new {@class = "control-label col-md-2"})
                                         <div class="col-md-10">
-                                            <img src="@Url.Content(Model.ImagePath)" style="margin: 10px; width: 200px; height: 200px;" id="imagePreview" />
-                                            <input type="file" name="ImageUpload" accept="image/jpeg, image/png" onchange="ShowImagePreview(this,document.getElementById('imagePreview'))" />
+                                            <img src="@Url.Content(Model.ImagePath)" style="margin: 10px; width: 200px; height: 200px;" id="imagePreview"/>
+                                            <input type="file" name="ImageUpload" accept="image/jpeg, image/png" onchange="ShowImagePreview(this, document.getElementById('imagePreview'))"/>
                                         </div>
                                     </div>
                                 </div>

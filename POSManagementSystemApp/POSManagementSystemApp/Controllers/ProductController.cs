@@ -18,6 +18,28 @@ namespace POSManagementSystemApp.Controllers
         // GET: Product
         public ActionResult Index()
         {
+            return View(GetAllProduct());
+            //var categorys = _categoryManager.GetAll();
+            //var product = _productManager.GetAll();
+
+            //List<Product> products = new List<Product>();
+            //foreach (var productItem in product)
+            //{
+            //    var productVM = new Product();
+            //    productVM.Id = productItem.Id;
+            //    productVM.Name = productItem.Name;
+            //    productVM.Code = productItem.Code;
+            //    productVM.Discription = productItem.Discription;
+            //    productVM.ReorderLevel = productItem.ReorderLevel;
+            //    productVM.ImagePath = productItem.ImagePath;
+            //    productVM.Category = categorys.Where(x => x.Id == productItem.CategoryId).FirstOrDefault();
+            //    products.Add(productVM);
+            //}
+            //return View(products);
+        }
+
+        IEnumerable<Product> GetAllProduct()
+        {
             var categorys = _categoryManager.GetAll();
             var product = _productManager.GetAll();
 
@@ -34,7 +56,7 @@ namespace POSManagementSystemApp.Controllers
                 productVM.Category = categorys.Where(x => x.Id == productItem.CategoryId).FirstOrDefault();
                 products.Add(productVM);
             }
-            return View(products);
+            return products;
         }
         [HttpGet]
         public ActionResult Add()
@@ -48,32 +70,41 @@ namespace POSManagementSystemApp.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Add([Bind(Include = "Id, Name, Code, CategoryId, ReorderLevel, Discription, Image, ImagePath, IsDeleted")]Product product)
         {
-            if (ModelState.IsValid)
+            try
             {
-                if (product.ImageUpload != null)
+                if (ModelState.IsValid)
                 {
-                    string fileName = Path.GetFileNameWithoutExtension(product.ImageUpload.FileName);
-                    string extension = Path.GetExtension(product.ImageUpload.FileName);
-                    fileName = fileName + DateTime.Now.ToString("yymmssfff") + extension;
-                    product.ImagePath = "~/images/product/" + fileName;
-                    product.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/images/product/"), fileName));
-                }
-                if (_productManager.Add(product))
-                {
-                    ViewBag.SuccessMsg = "Product Saved Successfully.";
-                    return RedirectToAction("Index");
-                }
-                else
-                {
-                    ViewBag.FailMsg = "Vailed!";
-                }
-            }
-            else
-            {
-                ViewBag.FailMsg = "Validation Error!";
-            }
+                    if (product.ImageUpload != null)
+                    {
+                        string fileName = Path.GetFileNameWithoutExtension(product.ImageUpload.FileName);
+                        string extension = Path.GetExtension(product.ImageUpload.FileName);
+                        fileName = fileName + DateTime.Now.ToString("yymmssfff") + extension;
+                        //product.ImagePath = fileName;
+                        product.ImagePath = "~/images/product/" + fileName;
+                        product.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/images/product/"), fileName));
+                    }
 
-            return View();
+                    _productManager.Add(product);
+                    //if (isSaved)
+                    //{
+                    //    //ViewBag.SuccessMsg = "Product Saved Successfully.";
+                    //    return true;
+
+                    //}
+                    //else
+                    //{
+                    //    ViewBag.FailMsg = "Vailed!";
+                    //}
+                    //return Json(new { success = true, html = GlobalClass.RenderRazorViewToString(this, "Index", GetAllProduct()), message = "Submitted Successfully" }, JsonRequestBehavior.AllowGet);
+                    //return RedirectToAction("Index");
+                }
+                return Json(new { success = true, html = GlobalClass.RenderRazorViewToString(this, "Index", GetAllProduct()), message = "Submitted Successfully" }, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+            
         }
 
         public ActionResult Edit(int id)
@@ -106,7 +137,9 @@ namespace POSManagementSystemApp.Controllers
                     product.ImagePath = "~/images/product/" + fileName;
                     product.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/images/product/"), fileName));
                 }
-                if (_productManager.Update(product))
+
+                bool isSaved = _productManager.Update(product);
+                if (isSaved)
                 {
                     ViewBag.SuccessMsg = "Update Successfully.";
                     

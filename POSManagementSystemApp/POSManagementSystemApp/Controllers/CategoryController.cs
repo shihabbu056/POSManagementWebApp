@@ -7,20 +7,21 @@ using System.Web.Mvc;
 using POSManagementSystem.Bll.Bll;
 using POSManagementSystem.Models.Models;
 using POSManagementSystem.Bll.Contracts;
+using POSManagementSystem.DatabaseContext.DatabaseContext;
 
 namespace POSManagementSystemApp.Controllers
 {
     public class CategoryController : Controller
     {
-        private CategoryManager _categoryManager;
-        private ICategoryManager _categoryManagerInterface;
+        CategoryManager _categoryManager = new CategoryManager();
+        //private ICategoryManager _categoryManagerInterface;
         Category _category = new Category();
 
-        public CategoryController(ICategoryManager categoryInterface, CategoryManager categoryManager)
-        {
-            this._categoryManagerInterface = categoryInterface;
-            this._categoryManager = categoryManager;
-        }
+        //public CategoryController(ICategoryManager categoryInterface, CategoryManager categoryManager)
+        //{
+        //    this._categoryManagerInterface = categoryInterface;
+        //    this._categoryManager = categoryManager;
+        //}
         // GET: Category
         public ActionResult Index()
         {
@@ -107,10 +108,15 @@ namespace POSManagementSystemApp.Controllers
             _categoryManager.Delete(_category);
             return RedirectToAction("Index");
         }
-        public JsonResult IsCategoryNameExist(string Name)
+        public JsonResult IsCategoryNameExist(string categoryName)
         {
-            var name = _categoryManagerInterface.IsCategoryAlreadyExits(Name);
-            return Json(name, JsonRequestBehavior.AllowGet);
+            POSManagementSystemBdContext dbpri = new POSManagementSystemBdContext();
+            Category cat = dbpri.Categories.Find(categoryName);
+            if (cat==null)
+            {
+                return Json(true, JsonRequestBehavior.AllowGet);
+            }
+            return Json("Category Already Exist, Try Another", JsonRequestBehavior.AllowGet);
         }
 
         //public ActionResult Delete(int id, FormCollection formCollection)

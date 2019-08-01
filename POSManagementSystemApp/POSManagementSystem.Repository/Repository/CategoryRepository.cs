@@ -72,5 +72,18 @@ namespace POSManagementSystem.Repository.Repository
             Category aStudent = db.Categories.FirstOrDefault(c => c.Id == category.Id);
             return aStudent;
         }
+
+        public bool IsCategoryNameDuplicate(string categoryName)
+        {
+            var aCategory = db.Categories.FirstOrDefault(c => c.Name == categoryName);
+            if (aCategory != null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

@@ -37,6 +37,40 @@ G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\EntityF
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.csprojResolveAssemblyReference.cache
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.dll
 G:\BITM All App\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.Contracts.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Models.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Repositor.Contracts.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Repository.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.Mvc.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.DatabaseContext.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\EntityFramework.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.Razor.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.Razor.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.Contracts.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Repositor.Contracts.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Repository.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Repository.dll.config
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.Mvc.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.DatabaseContext.pdb
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.DatabaseContext.dll.config
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\EntityFramework.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.Razor.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.Razor.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.csprojAssemblyReference.cache
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.csproj.CoreCompileInputs.cache
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.csproj.CopyComplete
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.dll
+F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\obj\Debug\POSManagementSystem.Bll.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll\bin\Debug\POSManagementSystem.Bll.Contracts.dll

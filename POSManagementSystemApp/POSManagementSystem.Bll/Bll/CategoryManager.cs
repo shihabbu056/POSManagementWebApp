@@ -31,5 +31,10 @@ namespace POSManagementSystem.Bll.Bll
         {
             return _categoryRepository.GetByID(category);
         }
+
+        public bool IsCategoryNameDuplicate(string categoryName)
+        {
+            return _categoryRepository.IsCategoryNameDuplicate(categoryName);
+        }
     }
 }
