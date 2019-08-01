@@ -56,3 +56,25 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojResolveAssemblyReference.cache
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Helpers.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Mvc.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Helpers.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Mvc.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\bin\Debug\System.Web.WebPages.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csprojAssemblyReference.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.csproj.CopyComplete
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models\obj\Debug\POSManagementSystem.Models.pdb

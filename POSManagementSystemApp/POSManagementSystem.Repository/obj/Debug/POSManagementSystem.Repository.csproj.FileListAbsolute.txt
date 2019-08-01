@@ -99,3 +99,35 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csprojResolveAssemblyReference.cache
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.dll.config
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repository.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.DatabaseContext.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repositor.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.Mvc.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.DatabaseContext.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.DatabaseContext.dll.config
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\POSManagementSystem.Repositor.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.Mvc.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csprojAssemblyReference.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.csproj.CopyComplete
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Repository\obj\Debug\POSManagementSystem.Repository.pdb
