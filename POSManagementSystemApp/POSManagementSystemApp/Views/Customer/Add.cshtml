@@ -17,7 +17,7 @@
         <hr style="margin-top: 4px; margin-bottom: 5px;"/>
     </div>
     <div class="row" style="background-color: white">
-        @using (Html.BeginForm())
+        @using (Html.BeginForm("Add", "Customer", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
         {
             @Html.AntiForgeryToken()
             <div class="form-horizontal" style="margin-top: 25px; margin-right: 8px;">
@@ -91,39 +91,30 @@
         }
     </div>
 </div>
-<script src="~/scripts/plugins/jquery-validation/jquery.validate.js"></script>
-@section scripts
+
+@section scriptsProductAdd
 {
+<script src="~/scripts/plugins/jquery-validation/jquery.validate.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
     <script>
         //Image show function method use code
 
-        function ShowImagePreview(imageUploader, previewImage) {
-            if (imageUploader.files && imageUploader.files[0]) {
-                var reader = new FileReader();
-                reader.onload = function (e) {
-                    $(previewImage).attr('src', e.target.result);
-                }
-                reader.readAsDataURL(imageUploader.files[0]);
-            }
-        }
-        $(function() {
-            ShowImagePreview();
-        });
+        //function ShowImagePreview(imageUploader, previewImage) {
+        //    if (imageUploader.files && imageUploader.files[0]) {
+        //        var reader = new FileReader();
+        //        reader.onload = function (e) {
+        //            $(previewImage).attr('src', e.target.result);
+        //        }
+        //        reader.readAsDataURL(imageUploader.files[0]);
+        //    }
+        //}
+        //$(function() {
+        //    //ShowImagePreview();
+        //});
 
         //Image Upload Second Method and Project image save and database bit image save
         jQuery(function ($) {
-            $(document).ready(function() {
-                $("#fileUpload").change(function () {
-                    debugger;
-                    var file = this.files;
-
-                    if (file && file[0]) {
-                        readImage(file[0]);
-                    }
-
-                });
-
+            $(document).ready(function () {
                 var readImage = function (file) {
 
                     var reader = new FileReader;
@@ -147,6 +138,15 @@
                         };
                     };
                 };
+                $("#fileUpload").change(function () {
+                    debugger;
+                    var file = this.files;
+
+                    if (file && file[0]) {
+                        readImage(file[0]);
+                    }
+
+                });
                 $("#clearPreview").click(function () {
                     $("#fileUpload").val('');
                     $("#description").text('');

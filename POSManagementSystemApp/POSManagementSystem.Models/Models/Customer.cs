@@ -22,6 +22,7 @@ namespace POSManagementSystem.Models.Models
         [Required, DataType(DataType.PhoneNumber)]
         public long Contact { get; set; }
         public int LoyaltyPoint { get; set; }
+        [Display(Name = "Customer Photo")]
         public byte[] Image { get; set; }
         public string ImagePath { get; set; }
         //[NotMapped]

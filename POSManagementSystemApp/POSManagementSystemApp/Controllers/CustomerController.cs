@@ -82,7 +82,7 @@ namespace POSManagementSystemApp.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Add([Bind(Include = "Id, Code, Name, Address, Email, Contact, LoyaltyPoint, Image, ImagePath, IsDeleted")] Customer customer)
+        public ActionResult Add([Bind(Exclude = "Image")] Customer customer)
         {
             if (ModelState.IsValid)
             {
