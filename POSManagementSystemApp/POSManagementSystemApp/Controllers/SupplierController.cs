@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using POSManagementSystem.Bll.Bll;
 using POSManagementSystem.Models.Models;
+using POSManagementSystemApp.ViewModels;
 
 namespace POSManagementSystemApp.Controllers
 {
@@ -56,23 +57,55 @@ namespace POSManagementSystemApp.Controllers
 
             return file != null;
         }
+        private void CreateSupplier(SupplierViewModel supplierVm, byte[] imageData)
+        {
+            Supplier cust = new Supplier
+            {
+                Name = supplierVm.Code,
+                Code = supplierVm.Name,
+                Address = supplierVm.Address,
+                Email = supplierVm.Email,
+                Contact = supplierVm.Contact,
+                ContactPerson = supplierVm.ContactPerson,                
+                Image = imageData,
+                ImagePath = "~/images/supplier/" + supplierVm.ImagePath + DateTime.Now,
+                IsDeleted = false
+            };
+            _supplierManager.Add(cust);
+        }
         [HttpGet]
         public ActionResult Add()
         {
             return View();
         }
         [HttpPost]
-        public ActionResult Add(Supplier supplier)
+        public ActionResult Add([Bind(Exclude = "Image")] SupplierViewModel supplierVm)
         {
-            if (ModelState.IsValid)
+            try
             {
-                var imageData = GetImageData(supplier.Name);
-                if (HasFile(imageData))
+                if (ModelState.IsValid)
                 {
-                    
+                    var imageData = GetImageData(supplierVm.Name);
+                    if (HasFile(imageData))
+                    {
+                        CreateSupplier(supplierVm, imageData);
+                        ViewBag.SuccessMsg = "Customer Saved Successfully.";
+                    }
+                    else
+                    {
+                        ViewBag.FailMsg = "Vailed!";
+                    }                    
                 }
+                else
+                {
+                    ViewBag.FailMsg = "Validation Error!";
+                }
+                return RedirectToAction("Index");
             }
-            return View();
+            catch
+            {
+                return View();
+            }
         }
         [HttpGet]
         public ActionResult Edit(int? id)

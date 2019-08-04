@@ -7,13 +7,13 @@ namespace POSManagementSystem.DatabaseContext.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class sss : IMigrationMetadata
+    public sealed partial class initial_first_migration : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(sss));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(initial_first_migration));
         
         string IMigrationMetadata.Id
         {
-            get { return "201907311217209_sss"; }
+            get { return "201908040416376_initial_first_migration"; }
         }
         
         string IMigrationMetadata.Source

@@ -20,26 +20,6 @@ F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManag
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csproj.CopyComplete
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.dll
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.pdb
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.pdb
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Mvc.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Razor.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.pdb
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Mvc.xml
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Razor.xml
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.xml
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csprojResolveAssemblyReference.cache
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.dll
-G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.pdb
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.dll
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.pdb
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
@@ -62,3 +42,25 @@ F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.C
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csproj.CopyComplete
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.dll
 F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Bll.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Mvc.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Razor.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\POSManagementSystem.Models.pdb
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Mvc.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.Razor.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csprojAssemblyReference.cache
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csproj.CoreCompileInputs.cache
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.csproj.CopyComplete
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.dll
+G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Bll.Contracts\obj\Debug\POSManagementSystem.Bll.Contracts.pdb

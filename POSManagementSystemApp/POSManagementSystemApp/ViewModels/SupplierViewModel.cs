@@ -18,13 +18,14 @@ namespace POSManagementSystemApp.ViewModels
         public string Email { get; set; }
         [Required, DataType(DataType.PhoneNumber)]
         public long Contact { get; set; }
+        [Required(ErrorMessage ="Please Provide Person Contact Number!"), DataType(DataType.PhoneNumber)]
         public string ContactPerson { get; set; }
         [Display(Name = "Supplier Photo")]
         public byte[] Image { get; set; }
         [Display(Name = "Supplier Photo")]
         public string ImagePath { get; set; }
-        [NotMapped]
-        public HttpPostedFileBase ImageUpload { get; set; }
+        //[NotMapped]
+        //public HttpPostedFileBase ImageUpload { get; set; }
         public bool IsDeleted { get; set; }
 
         public bool WithDeleted()

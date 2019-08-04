@@ -48,37 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseContext\POSManagementSystemBdContext.cs" />
-    <Compile Include="Migrations\201907290906175_Initial_Model.cs" />
-    <Compile Include="Migrations\201907290906175_Initial_Model.Designer.cs">
-      <DependentUpon>201907290906175_Initial_Model.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907291055060_Category_Display_Anotation_Added.cs" />
-    <Compile Include="Migrations\201907291055060_Category_Display_Anotation_Added.Designer.cs">
-      <DependentUpon>201907291055060_Category_Display_Anotation_Added.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907291458067_ImagePath_DisplayName_Added.cs" />
-    <Compile Include="Migrations\201907291458067_ImagePath_DisplayName_Added.Designer.cs">
-      <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.cs" />
-    <Compile Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.Designer.cs">
-      <DependentUpon>201907292313164_Category_DataAnnotation_Addedd.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907301008027_Category_Model_Change.cs" />
-    <Compile Include="Migrations\201907301008027_Category_Model_Change.Designer.cs">
-      <DependentUpon>201907301008027_Category_Model_Change.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907311217209_sss.cs" />
-    <Compile Include="Migrations\201907311217209_sss.Designer.cs">
-      <DependentUpon>201907311217209_sss.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907311328303_duplicate_category_check_change.cs" />
-    <Compile Include="Migrations\201907311328303_duplicate_category_check_change.Designer.cs">
-      <DependentUpon>201907311328303_duplicate_category_check_change.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907311628043_customer_model_change.cs" />
-    <Compile Include="Migrations\201907311628043_customer_model_change.Designer.cs">
-      <DependentUpon>201907311628043_customer_model_change.cs</DependentUpon>
+    <Compile Include="Migrations\201908040416376_initial_first_migration.cs" />
+    <Compile Include="Migrations\201908040416376_initial_first_migration.Designer.cs">
+      <DependentUpon>201908040416376_initial_first_migration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -94,29 +66,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201907290906175_Initial_Model.resx">
-      <DependentUpon>201907290906175_Initial_Model.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907291055060_Category_Display_Anotation_Added.resx">
-      <DependentUpon>201907291055060_Category_Display_Anotation_Added.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907291458067_ImagePath_DisplayName_Added.resx">
-      <DependentUpon>201907291458067_ImagePath_DisplayName_Added.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907292313164_Category_DataAnnotation_Addedd.resx">
-      <DependentUpon>201907292313164_Category_DataAnnotation_Addedd.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907301008027_Category_Model_Change.resx">
-      <DependentUpon>201907301008027_Category_Model_Change.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907311217209_sss.resx">
-      <DependentUpon>201907311217209_sss.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907311328303_duplicate_category_check_change.resx">
-      <DependentUpon>201907311328303_duplicate_category_check_change.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907311628043_customer_model_change.resx">
-      <DependentUpon>201907311628043_customer_model_change.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201908040416376_initial_first_migration.resx">
+      <DependentUpon>201908040416376_initial_first_migration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
