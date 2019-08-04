@@ -62,42 +62,6 @@ F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManag
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.dll
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.pdb
 F:\BITM App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Category_Model_Change.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll.config
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.pdb
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.Contracts.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Mvc.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Razor.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.pdb
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.Contracts.pdb
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Mvc.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Razor.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csprojAssemblyReference.cache
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Initial_Model.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Category_Display_Anotation_Added.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.ImagePath_DisplayName_Added.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Category_DataAnnotation_Addedd.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Category_Model_Change.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.sss.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.duplicate_category_check_change.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.customer_model_change.resources
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.GenerateResource.cache
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.CoreCompileInputs.cache
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.CopyComplete
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll.config
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.pdb
@@ -127,3 +91,32 @@ G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSM
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.initial_first_migration.resources
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.GenerateResource.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll.config
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.DatabaseContext.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csprojAssemblyReference.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.CopyComplete
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.Migrations.Initial.resources
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.DatabaseContext\obj\Debug\POSManagementSystem.DatabaseContext.csproj.GenerateResource.cache

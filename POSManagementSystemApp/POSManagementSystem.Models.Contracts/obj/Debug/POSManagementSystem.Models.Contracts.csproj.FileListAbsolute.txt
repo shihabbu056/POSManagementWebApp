@@ -1,12 +1,11 @@
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.csprojAssemblyReference.cache
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.csproj.CoreCompileInputs.cache
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.dll
-F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.csprojAssemblyReference.cache
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.csproj.CoreCompileInputs.cache
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.dll
 G:\BITM All App\Second Project Web App Create by Shihab\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\bin\Debug\POSManagementSystem.Models.Contracts.pdb
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.csproj.CoreCompileInputs.cache
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.dll
+F:\BITM App\POSManagementWebApp\POSManagementSystemApp\POSManagementSystem.Models.Contracts\obj\Debug\POSManagementSystem.Models.Contracts.pdb
